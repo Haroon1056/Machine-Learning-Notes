@@ -1,2 +1,2 @@
 # Machine-Learning-Notes
-Daily machine learning notes and projects.
+ragularly update machine learning notes and projects.
